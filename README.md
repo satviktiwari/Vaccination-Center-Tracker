@@ -29,4 +29,4 @@ Note: Both the apps are integrated (Both can be accessed from any of these links
 
 ## R Dasboard : https://satvik1408.shinyapps.io/COVID_Tracker_App/ <br>
 
-## Vaccination Tracker: https://satviktiwari.github.io/tracker/
+## Vaccination Tracker: https://vaccinetrackerindia.netlify.app/
